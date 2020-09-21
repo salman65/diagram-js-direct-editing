@@ -3,7 +3,7 @@
 import {
   bootstrapDiagram,
   inject
-} from 'diagram-js/test/helper';
+} from '@salman65/diagram-js/test/helper';
 
 import {
   forEach
@@ -61,7 +61,7 @@ function expectEditingActive(directEditing, parentBounds, contentBounds) {
 }
 
 
-describe('diagram-js-direct-editing', function() {
+describe('@salman65/diagram-js-direct-editing', function() {
 
 
   describe('bootstrap', function() {

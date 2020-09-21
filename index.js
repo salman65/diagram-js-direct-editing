@@ -1,4 +1,4 @@
-import InteractionEventsModule from 'diagram-js/lib/features/interaction-events';
+import InteractionEventsModule from '@salman65/diagram-js/lib/features/interaction-events';
 
 import DirectEditing from './lib/DirectEditing';
 
